@@ -8,13 +8,11 @@
 		<version>2.6.0-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-    
 	<groupId>com.pet</groupId>
 	<artifactId>PetApplication</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>PetApplication</name>
 	<description>Demo project for Spring Boot</description>
-	
 	<properties>
 		<java.version>1.8</java.version>
 		<spring-cloud.version>2021.0.0-SNAPSHOT</spring-cloud.version>
